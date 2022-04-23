@@ -5,7 +5,7 @@
     @apply w-full sm:w-6/12 md:w-4/12 p-4;
 }
 .footer-logo-link {
-    @apply inline-block w-auto h-[35px];
+    @apply inline-block w-[120px] h-auto;
 }
 .footer-copyright {
     @apply mt-3 text-base xl:w-8/12;
